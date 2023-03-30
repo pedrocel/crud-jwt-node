@@ -6,8 +6,8 @@ const authRouter = require('./routes/auth');
 const app = express();
 
 app.use(express.json());
-app.use(usersRouter);
 app.use('/auth', authRouter);
-app.use(productsRouter);
+app.use('/api', usersRouter);
+app.use('/api', productsRouter);
 
 module.exports = app;
