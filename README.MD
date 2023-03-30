@@ -20,3 +20,12 @@ Integração do nosso sistema de usuários com autenticação JWT
             +app.js
             +router.js
             +server.js - //Configuração da porta e start do servidor
+
+    * JEAN - Gerenciador de produtos com atualização de estoque quantidade
+    * RODRIGO - Controle financeiro de contas a pagar e contas a receber
+    * EDUARDO Gerenciamento de atividades com status de atividade
+    * MARCIO - Gerenciador de escola com cadastro de curso, turma e aulas
+    * MARIO - Agenda - Agendamento de serviços - calendario de serviços - gestão de clientes
+    * LUAN - Formulario de perguntas e respostas dinamico - QUIZZ
+    * KAUÃ - Mini rede social com perfil e posts 
+    * LUCAS - Criador de carteira de estudante digital com pdf 
